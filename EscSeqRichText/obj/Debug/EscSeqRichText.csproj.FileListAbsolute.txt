@@ -1,0 +1,6 @@
+D:\Programming\vsWinTools\EscSeqRichText\obj\Debug\EscSeqRichText.csproj.CoreCompileInputs.cache
+D:\Programming\vsWinTools\EscSeqRichText\bin\Debug\EscSeqRichText.dll
+D:\Programming\vsWinTools\EscSeqRichText\bin\Debug\EscSeqRichText.pdb
+D:\Programming\vsWinTools\EscSeqRichText\obj\Debug\EscSeqRichText.dll
+D:\Programming\vsWinTools\EscSeqRichText\obj\Debug\EscSeqRichText.pdb
+D:\Programming\vsWinTools\EscSeqRichText\obj\Debug\EscSeqRichText.csproj.AssemblyReference.cache
